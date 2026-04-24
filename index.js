@@ -21,8 +21,8 @@ async function fetchPosts() {
   
   const data = [
     {
-      title: "sunt aut facere repellat provident occaecati",
-      body: "quia et suscipit suscipit recusandae consequuntur"
+      title: "sunt aut facere repellat",
+      body: "quia et suscipit\nsuscipit"
     }
   ];
 
